@@ -1,5 +1,5 @@
-# Basic Music Recommender
+# Basic (QUASI) Music Recommender
 
-This is my first attempt at creating a simple music recommendation system using primarily Euclidean-distance based techniques.  In the Python notebook, you'll find a walkthrough of the entire process. Clone the repo, add some data to the 'data' folder, and run through the notebook to get some music recommendations from your dataset based on your input song! 
+Used Quasi euclidean distance metric and the tweaked the implementation to see how well it works for this use case. Just for fun. 
 
-Enjoy. Bug fixes/improvements to come soon. 
+PS: It doesn't do exceptionally well, but it's decent.
